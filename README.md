@@ -1,4 +1,4 @@
-## Film Rental
+## Project - Film Rental
  ### Domain: Film Rent
 - Content:  This is a film rental store that provides DVDs on a rental basis. The owner to manage his business by providing different types of reports using SQL queries.
             With some of the SQL reports that he needs to make important business decisions.
@@ -13,4 +13,4 @@ The customer Info table contains information about the customers who rent DVDs f
  - Store:
     - Table contains information about the store itself, including details about the staff who work there, the rentals that are available, and the payments that are made by customers.
 ### Objective:
-   - To make excellent report that would helps to make business decisions.
+    - To make excellent report that would gives to makes a good business decisions.
