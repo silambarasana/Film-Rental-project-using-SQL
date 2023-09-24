@@ -12,5 +12,8 @@ The customer Info table contains information about the customers who rent DVDs f
 
  - Store:
     - Table contains information about the store itself, including details about the staff who work there, the rentals that are available, and the payments that are made by customers.
+      
 ### Objective:
-    - To make excellent report that would gives to makes a good business decisions.
+       - To make excellent report that would gives to makes a good business decisions.
+
+    
